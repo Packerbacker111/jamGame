@@ -1,2 +1,2 @@
 # jamGame
-libGDX based trash game
+libGDX based amazing game
